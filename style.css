@@ -1,0 +1,39 @@
+.app-page{
+    width: 170px;
+    height: auto;
+    margin-left: 32.42069px;
+    box-shadow: inset black 0px 0px 5px 5px;
+}
+
+.main-container{
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.banner{
+    margin: 20px;
+}
+
+.pitch{
+    font-family: 'Quicksand', sans-serif;
+    width: 900px;
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: large;
+}
+
+.store-img{
+    height: min-content;
+}
+
+.coming-soon{
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 0px;
+}
